@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ebt9
+- 👀 I’m interested in computers, I love programming
+- 🌱 I’m currently learning the C langunge, and Python
+- 💞️ I’m looking to collaborate on projects that need C programming knowledge
+- 📫 How to reach me: email me; ebtt@protonmail.com
